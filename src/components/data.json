@@ -1,0 +1,46 @@
+{
+  "children": [
+    {
+      "name": "genunix`syscall_mstate",
+      "value": 89
+    },
+    {
+      "name": "unix`0xfffffffffb8001d6",
+      "value": 13
+    },
+    {
+      "name": "unix`0xfffffffffb800c7c",
+      "value": 42
+    },
+    {
+      "name": "unix`0xfffffffffb800c81",
+      "value": 2
+    },
+    {
+      "name": "unix`0xfffffffffb800c86",
+      "value": 472
+    },
+    {
+      "name": "unix`0xfffffffffb800c91",
+      "value": 4361
+    },
+    {
+      "name": "unix`0xfffffffffb800ca0",
+      "value": 517
+    },
+    {
+      "name": "unix`_sys_rtt",
+      "value": 6
+    },
+    {
+      "name": "unix`_sys_rtt_ints_disabled",
+      "value": 1
+    },
+    {
+      "name": "unix`_sys_sysenter_post_swapgs",
+      "value": 1
+    }
+  ],
+  "name": "root",
+  "value": 57412
+}
